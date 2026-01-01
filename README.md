@@ -1,4 +1,4 @@
-# digital-clock-c
+# Simple Digital Clock C
 A simple digital clock written in C
 
 Just compile it with clang or gcc and run it from there it should work.
