@@ -69,6 +69,10 @@ int main(void)
         break;
       }
       int sleep_value = 60 - ct->tm_sec;
+      if(sleep_value <= 0)
+      {
+        sleep_value = 1;
+      }
       sleep(sleep_value);
     }
 
