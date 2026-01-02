@@ -68,7 +68,8 @@ int main(void)
         min_p2 = cur_minute[1] - '0';
         break;
       }
-      sleep(1);
+      int sleep_value = 59 - ct->tm_sec;
+      sleep(sleep_value);
     }
 
     for(int i = 0; i < ROWS; i++)
