@@ -1,8 +1,8 @@
 # Simple Digital Clock C
-<h>A simple digital clock written in C</h>
+<h1>A simple digital clock written in C</h1>
 
-Just compile it with clang or gcc and run it from there it should work.
-It only works with Linux. Windows support might get added. :)
+<p>Just compile it with clang or gcc and run it from there it should work.
+It only works with Linux. Windows support might get added. :)</p>
 
 The clock should look like something like this:
 <img width="766" height="291" alt="grafik" src="https://github.com/user-attachments/assets/68d61505-b1c6-46c7-9f65-5df2babd87e3" />
