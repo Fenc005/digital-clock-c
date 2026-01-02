@@ -1,5 +1,5 @@
-# Simple Digital
-<h2>A simple digital clock written in C</h2>
+# Simple Digital Clock
+<h3>A simple digital clock written in C</h3>
 
 <p>Just compile it with clang or gcc and run it from there it should work.
 It only works with Linux. Windows support might get added. :)</p>
