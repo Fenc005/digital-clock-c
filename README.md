@@ -16,5 +16,5 @@ To reduce the use of system ressources it also uses <unistd.h> for the sleep() f
 To only have one version of the clock on the screen this programm uses ANSI Escape Sequences, plus it uses the Escape Sequences for the color too.
 Everything else is standard c, like you most of the time need the stdio.h header anyways.
 
-</b>Programm sequence:</b>
+<b>Programm sequence:</b>
 I
