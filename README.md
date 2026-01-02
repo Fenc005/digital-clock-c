@@ -5,7 +5,7 @@
 It only works with Linux. Windows support might get added. :)</p>
 
 <h3>The clock should look like something like this:</h3>
-<img width="766" height="291" alt="grafik" src="https://github.com/user-attachments/assets/68d61505-b1c6-46c7-9f65-5df2babd87e3" />
+<p><img width="766" height="291" alt="grafik" src="https://github.com/user-attachments/assets/68d61505-b1c6-46c7-9f65-5df2babd87e3" /></p>
 
 <h3>Exit info</h3>
 <p>If you want to exit the program just press [ctrl]+[c] or just close the terminal.</p>
